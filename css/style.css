@@ -398,7 +398,8 @@ ol {
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #323232;
+	/* color: #323232; */
+	color: white;
 	padding-left: 63px;
 	margin-bottom: 24px;
 	position: relative;
